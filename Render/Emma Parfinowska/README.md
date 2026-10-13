@@ -3,4 +3,6 @@
 
 So after shaping the body i extended parts to make up the arms and legs. I then attached 3 cones to the end of the arms to create fingers for Mew.
 
-13/10/2026 - I have added in more depth for the legs and feet. i used spheres and sculpted them to fit the thighs.
+13/10/2026 - I have added in more depth for the legs and feet. i used spheres and sculpted them to fit the thighs. 
+
+For the tail i originlyy used a sphere and shaped and streched it but I didnt like the look of it. i then found out how to use the curve tool, so i drew mews tail and filled it in and placed a sphere on the tip of the tail as it will match mews design. I have also added on the head but it needs shaping as it doesnt quite match its design.

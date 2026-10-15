@@ -21,6 +21,8 @@ The Blender model will be based of off this character
 # 13/10/2026 
 - I have added in more detail for the legs and feet. i used spheres and sculpted them to fit the thighs and feet. For the tail i originlyy used a sphere and shaped and streched it but I didnt like the look of it. I then found out how to use the curve tool, so i drew mews tail and filled it in and placed a sphere on the tip of the tail as it will match mews design. I have also added on the head but it needs shaping as it doesnt quite match its design. Added in the ears for mew and made an attempt for the eyes. mews eyes are a smooth triangle so i need to smooth the current eyes now as it looks out of place as just pointy triangles however, i got placement for it will be placed.
 
+# 15/10/2026
+- I have decided to scrap the triangular eyes entirely ad decided to hollow out the face and fill it in with spheres for the eyes. I have also redone the tail as it was to small in comaprison to mew. I now need to shape the head to the eyes so it fits better as well as rendering the body as well. 
 
 # Final Design choices
 - I plan to pose mew in a forest with some trees and grass and have it floating as it is a physcic pokemon. 

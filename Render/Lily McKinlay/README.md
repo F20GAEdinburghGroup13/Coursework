@@ -20,3 +20,5 @@ I have moved files around so they should be in the right places and added a mate
 So update, I have done the texturing for the main body, tail and shadow, along with applying a different texture to the ears for the more Pikachu look mimikyu has, next up on my list is to do something to get the fake eyes, mouth and cheeks done before doing it's little eye holes at the bumb on it's torso.
 
 Okay so i done the drawing, well it's actual eyes, the face is giving me grief but i'm so proud of my lil feller, she's amazing, i had to rework the material on the body so that way it would actually show and look right but it's going well :D
+
+I redone the ears and shadow to make it fit the rest of the body a bit more, i drew the face but i'm not sure if i'm gonna keep it yet so that can be seen in images but nothings really highlighting it

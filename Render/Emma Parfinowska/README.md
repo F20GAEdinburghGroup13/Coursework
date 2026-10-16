@@ -27,6 +27,8 @@ The Blender model will be based of off this character
 #16/10/2026
 - I have decided to redo my model as it was misaligned and looked creepy. Not how mew was supposed to look like. with the current skill and tool i know i will be able to create a better looking model ofg mew. i have decided to start with the head. I started with a sphere and with the elastic tool and sculpting tools i was able to make the shape of the head. I also udsed the mirror tol too keep it symetrical. I inflated thew ears and hollowed out where the eys will be. 
 - I have made a sphere and elongated it to make the shape of the body. i then used different scuplt tools to create the shape of the body. it is a bottom heavy build so the point of the neck is narrower than the bottom of the body. I also added in groves to where the arms will be placed and should make it easier to rigg/ animate mew for the future. 
+- The arms i used a sphere and elongated it. i then sculpted out the tiny paws for mew and duplicated. one duplicated it i added it to the body and made the arms proportionate to mew body. I also added a screenshot of what the render looks like up until this point.
+
 
 # Final Design choices
 - I plan to pose mew in a forest with some trees and grass and have it floating as it is a physcic pokemon. 

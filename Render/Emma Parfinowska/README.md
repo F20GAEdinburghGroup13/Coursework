@@ -24,6 +24,9 @@ The Blender model will be based of off this character
 # 15/10/2026
 - I have decided to scrap the triangular eyes entirely ad decided to hollow out the face and fill it in with spheres for the eyes. I have also redone the tail as it was to small in comaprison to mew. I now need to shape the head to the eyes so it fits better as well as rendering the body as well. 
 
+#16/10/2026
+- I have decided to redo my model as it was misaligned and looked creepy. Not how mew was supposed to look like. with the current skill and tool i know i will be able to create a better looking model ofg mew. i have decided to start with the head. I started with a sphere and with the elastic tool and sculpting tools i was able to make the shape of the head. I also udsed the mirror tol too keep it symetrical. I inflated thew ears and hollowed out where the eys will be. 
+
 # Final Design choices
 - I plan to pose mew in a forest with some trees and grass and have it floating as it is a physcic pokemon. 
 

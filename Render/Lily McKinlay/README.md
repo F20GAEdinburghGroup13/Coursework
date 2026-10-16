@@ -16,3 +16,7 @@ So after today I have done a lot! I completely redone the head properly, i messe
 Overall i am really happy with this and theres some jank that i wish i could get rid of but ultimately the tail looks good, i was enjoying myself and thought i created something that looks good besides the horns- but those will be worked on after the mirror is gone on the body
 
 I have moved files around so they should be in the right places and added a material to the shadow to make it look as it should.
+
+So update, I have done the texturing for the main body, tail and shadow, along with applying a different texture to the ears for the more Pikachu look mimikyu has, next up on my list is to do something to get the fake eyes, mouth and cheeks done before doing it's little eye holes at the bumb on it's torso.
+
+Okay so i done the drawing, well it's actual eyes, the face is giving me grief but i'm so proud of my lil feller, she's amazing, i had to rework the material on the body so that way it would actually show and look right but it's going well :D

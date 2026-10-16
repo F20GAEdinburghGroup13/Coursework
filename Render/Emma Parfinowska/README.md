@@ -29,6 +29,7 @@ The Blender model will be based of off this character
 - I have made a sphere and elongated it to make the shape of the body. i then used different scuplt tools to create the shape of the body. it is a bottom heavy build so the point of the neck is narrower than the bottom of the body. I also added in groves to where the arms will be placed and should make it easier to rigg/ animate mew for the future. 
 - The arms i used a sphere and elongated it. i then sculpted out the tiny paws for mew and duplicated. one duplicated it i added it to the body and made the arms proportionate to mew body. I also added a screenshot of what the render looks like up until this point.
 -Made the model smooth as well as fixed the proportians. 
+- Added in the thighs and shaped it to mew. planning on doing the legs which are thin and long and joining them to the thighs
 
 
 # Final Design choices

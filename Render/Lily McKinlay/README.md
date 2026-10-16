@@ -14,3 +14,5 @@ So i wasn't happy with that. I am now reworking it all from my first commit with
 
 So after today I have done a lot! I completely redone the head properly, i messed with subdivisions again properly and cave in to giving it more so that it looks nice after being smoothed
 Overall i am really happy with this and theres some jank that i wish i could get rid of but ultimately the tail looks good, i was enjoying myself and thought i created something that looks good besides the horns- but those will be worked on after the mirror is gone on the body
+
+I have moved files around so they should be in the right places and added a material to the shadow to make it look as it should.

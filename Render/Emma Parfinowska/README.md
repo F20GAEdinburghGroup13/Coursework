@@ -30,6 +30,7 @@ The Blender model will be based of off this character
 - The arms i used a sphere and elongated it. i then sculpted out the tiny paws for mew and duplicated. one duplicated it i added it to the body and made the arms proportionate to mew body. I also added a screenshot of what the render looks like up until this point.
 -Made the model smooth as well as fixed the proportians. 
 - Added in the thighs and shaped it to mew. planning on doing the legs which are thin and long and joining them to the thighs
+- Made the path and subdivided it to create the bends and kinks in mews tail. I then thickned the tail and attached it to the body. I then extruded the tail by one more section and expanded the radius to create the tip of mews tail. I also expanded the radius by the base of the tail to make the shape. 
 
 
 # Final Design choices

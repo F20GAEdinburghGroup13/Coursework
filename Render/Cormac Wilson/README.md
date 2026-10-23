@@ -24,6 +24,7 @@ My Blender model will be a re-creation of this water bottle.
 - 23/10/2026 ->
   - Have created initial handle parts from the side screws, I did this by selecting some of the faces which go around the outside of the handle base I made which is between the side screw and the side screw base, I then used the extrude tool to bring it forward. Whilst doing this, I also reduce the side of the handle base slightly, I simply made it not as thick and slightly thinner.
   - Used the scale tool locked along the Z axis to make the top of the handles flat instead of curved like they were previously.
+  - Have added smooth by angle modifier to the handle and have also marked two of the edges of the side screw as sharp so when I shade as smooth, they stay sharp.
 
 ## References
 

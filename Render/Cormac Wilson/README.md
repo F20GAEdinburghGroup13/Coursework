@@ -21,6 +21,8 @@ My Blender model will be a re-creation of this water bottle.
   - Added side screws to the water bottle lid, I created the actual screws that go into the side screws base on either side of the water bottle that I made earlier. I have also added a bevel to the outside edge of the screw to give it that angled side which makes it look like a screw. After this I added smaller face using the inset faces tool, I then used the transform tool to make a hole in the middle of the side screw, using the bevel tool (with ten segments) again on the edge of the hole to give it a nice smooth angle.
 - 21/10/2026 ->
   - Created the initial handle component which connects from the side screws and their bases to the actual handle for the water bottle. I did this by creating a new cyliner mesh in object mode and rotated it 90° degrees to the side, I then used the transform tool to reduce its size and thickness. I then moved it in place between the side screw base and the side screw itself. After this, I used the bevel tool again to smooth the side faces to ensure that it was a smooth circle.
+- 23/10/2026 ->
+  - Have created initial handle parts from the side screws, I did this by selecting some of the faces which go around the outside of the handle base I made which is between the side screw and the side screw base, I then used the extrude tool to bring it forward. Whilst doing this, I also reduce the side of the handle base slightly, I simply made it not as thick and slightly thinner.
 
 ## References
 

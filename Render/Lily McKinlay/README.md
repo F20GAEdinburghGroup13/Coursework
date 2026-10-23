@@ -24,3 +24,5 @@ Okay so i done the drawing, well it's actual eyes, the face is giving me grief b
 I redone the ears and shadow to make it fit the rest of the body a bit more, i drew the face but i'm not sure if i'm gonna keep it yet so that can be seen in images but nothings really highlighting it
 
 yeah i am not happy with the face and the head is bugging me ever so slightly but i will persever and i need to get everything done so i can do the asymmetrical parts done too
+
+It looks a little silly but honestly i think i'm happy with it, I need to confirm the mirror, tie it all together and add discrepncies to the face so it's uneven-ish

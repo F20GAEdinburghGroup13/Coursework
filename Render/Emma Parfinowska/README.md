@@ -32,6 +32,10 @@ The Blender model will be based of off this character
 - Added in the thighs and shaped it to mew. planning on doing the legs which are thin and long and joining them to the thighs
 - Made the path and subdivided it to create the bends and kinks in mews tail. I then thickned the tail and attached it to the body. I then extruded the tail by one more section and expanded the radius to create the tip of mews tail. I also expanded the radius by the base of the tail to make the shape. 
 
+# 25/10/2026 - Final Touches
+- Created a new head that fits the shape better for the final design and made sure you can see the eyes from the side for this one. Added in progress of the final head that will be used in animation. 
+
+![Head](/Render/Emma%20Parfinowska/Blender_project_files_v2/Head/FinalHF.png)
 
 # Final Design choices
 - I plan to pose mew in a forest with some trees and grass and have it floating as it is a physcic pokemon. 

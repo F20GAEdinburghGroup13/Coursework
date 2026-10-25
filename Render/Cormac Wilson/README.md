@@ -26,6 +26,8 @@ My Blender model will be a re-creation of this water bottle.
   - Used the scale tool locked along the Z axis to make the top of the handles flat instead of curved like they were previously.
   - Have added smooth by angle modifier to the handle and have also marked two of the edges of the side screw as sharp so when I shade as smooth, they stay sharp.
   - Have fixed geometry issues I was experiencing with the handle connectorrs, I was getting weird issues with lighting, there was duplicte vertices, I have removed it and fixed this issue.
+- 24/10/2026 ->
+  - Have deleted the handle part and am going to recreate it. Have split the bottle side screws into a new mesh object.
 
 ## References
 

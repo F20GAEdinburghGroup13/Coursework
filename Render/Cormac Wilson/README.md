@@ -30,6 +30,7 @@ My Blender model will be a re-creation of this water bottle.
   - Have recreated the handle. Did this by deleting the initial handle and then recreating it. I first made the cylinder that the handle is based off of before then extruding its top faces up to make the initial handle spine, before then using the scale tool on its top faces to flatten it out, into a straight line. After this I then continued up using the extrude tool to make the spine slightly thicker (for the black plastic bit) I then angled it and connected it together at the top. I enabled clipping for the mirror tool for this.
   - Added curves to the edges of the new handle spine and the edges of the side screws and the handle spine cylinder base. I did this by using the bevel tool.
   - Added materials to the handle spine, I did this by simply selecting the correct faces on the mesh, and selecting the correct material for them using the materials pane in the properties workspace on my Blender.
+  - Added further curved edges to the handle spine, used the bevel tool to make the edges around the specific angle change section more curved compared to the straight lines I have previosuly.
 
 ## References
 

@@ -27,7 +27,9 @@ My Blender model will be a re-creation of this water bottle.
   - Have added smooth by angle modifier to the handle and have also marked two of the edges of the side screw as sharp so when I shade as smooth, they stay sharp.
   - Have fixed geometry issues I was experiencing with the handle connectorrs, I was getting weird issues with lighting, there was duplicte vertices, I have removed it and fixed this issue.
 - 24/10/2026 ->
-  - Have deleted the handle part and am going to recreate it. Have split the bottle side screws into a new mesh object.
+  - Have recreated the handle. Did this by deleting the initial handle and then recreating it. I first made the cylinder that the handle is based off of before then extruding its top faces up to make the initial handle spine, before then using the scale tool on its top faces to flatten it out, into a straight line. After this I then continued up using the extrude tool to make the spine slightly thicker (for the black plastic bit) I then angled it and connected it together at the top. I enabled clipping for the mirror tool for this.
+  - Added curves to the edges of the new handle spine and the edges of the side screws and the handle spine cylinder base. I did this by using the bevel tool.
+  - Added materials to the handle spine, I did this by simply selecting the correct faces on the mesh, and selecting the correct material for them using the materials pane in the properties workspace on my Blender.
 
 ## References
 

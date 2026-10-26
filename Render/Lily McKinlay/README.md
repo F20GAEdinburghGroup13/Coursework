@@ -1,5 +1,13 @@
 # F20GA
 
+I followed this as a rough idea on how to do things, I tried to somewhat copy it but that's in v1 mostly, after restarting I freestyled
+https://www.youtube.com/watch?v=V8sTyy8KlFY
+
+I used loop tools extension to make the circular base of mimikyu 
+
+For the textures i used this as a base on the body and shadows https://blog.yarsalabs.com/basic-toon-shader-in-blender/
+For the tail i used this as a base for the material https://medium.com/@samuelsullins/make-this-easy-procedural-wood-material-in-blender-with-just-10-nodes-c94a3f8b54ad
+
 So a quick brief on everything that has happened so far:
 I started working on mimikyu's head, i had too many faces as I used ctrl+2 on it, so I changed my mind and went to ctrl+1 and was happy with it for now after getting rid of half of it and mirroring it to build it.
 I then extruded faces down from it's neck, scaled those up then manually moved it into shape with the reference sheet, to which i was happy about

@@ -34,6 +34,8 @@ My Blender model will be a re-creation of this water bottle.
 - 27/10/2026 ->
   - Used the scale tool to slightly increase the width of the top part of the handle, along the x axis. Added new screenshot as well.
   - Created the bottle cap for the lid. I did this by using the edge select tool and selecting the top edge of the lid, I then duplicated it and cloned it into its own mesh object. I then filled it to give it a body and also used the extrude and the scale tool to make it taller in height and to make it slightly smaller so that it fits better within the lid.
+  - Finished bottle cap for the lid. I edited the cylinder I made for it some more bu using the scale tool to get the correct size before then using the inset faces tool to make a smaller face for the gap where the lid walls go, I then usd the inset faces tool again to make the plug that goes into the bottle, next. After then, I them combined the faces for the plug in the middle, and the face of the actual cap together, this then created a flat surface for the top. Finally, I added some nice bevels to the plugs and also the angles on the outside along the top of the water bottle cap.
+  - Added screenshots for all of the work that I have completed today.
 
 ## References
 

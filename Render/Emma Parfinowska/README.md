@@ -29,8 +29,11 @@ The Blender model will be based of off this character
 - I have made a sphere and elongated it to make the shape of the body. i then used different scuplt tools to create the shape of the body. it is a bottom heavy build so the point of the neck is narrower than the bottom of the body. I also added in groves to where the arms will be placed and should make it easier to rigg/ animate mew for the future. 
 - The arms i used a sphere and elongated it. i then sculpted out the tiny paws for mew and duplicated. one duplicated it i added it to the body and made the arms proportionate to mew body. I also added a screenshot of what the render looks like up until this point.
 -Made the model smooth as well as fixed the proportians. 
+![Mew](/Render/Emma%20Parfinowska/Blender_project_files_v2/Arms/CloseUpHand.png)
+
 - Added in the thighs and shaped it to mew. planning on doing the legs which are thin and long and joining them to the thighs
 - Made the path and subdivided it to create the bends and kinks in mews tail. I then thickned the tail and attached it to the body. I then extruded the tail by one more section and expanded the radius to create the tip of mews tail. I also expanded the radius by the base of the tail to make the shape. 
+![Mew](/Render/Emma%20Parfinowska/Blender_project_files_v2/FullRender/Colour.png)
 
 # 25/10/2026 - Final Touches
 - Created a new head that fits the shape better for the final design and made sure you can see the eyes from the side for this one. Added in progress of the final head that will be used in animation. 
@@ -43,6 +46,12 @@ The Blender model will be based of off this character
 
 Will be taking inspiration from this card creating a scenice backdrop that will animate as mew flighs through the forest.
 
+# 27/10/2026
+
+- made a start on making the background. Decided to add shapes and scuplt them into shape
+![background](/Render/Emma%20Parfinowska/Blender_project_files_v2/Background/background.png)
+
+Also started to add the bones to mew so i can make its floating animation. Its a lot harder to get it to sit right but have added progress.
 
 # References
 

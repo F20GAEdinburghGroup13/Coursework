@@ -34,3 +34,8 @@ I redone the ears and shadow to make it fit the rest of the body a bit more, i d
 yeah i am not happy with the face and the head is bugging me ever so slightly but i will persever and i need to get everything done so i can do the asymmetrical parts done too
 
 It looks a little silly but honestly i think i'm happy with it, I need to confirm the mirror, tie it all together and add discrepncies to the face so it's uneven-ish
+
+Today i made V3 which is for the final render work, bones and scene, I've went for a pretty basic scene and once bones are done i'm aiming to make it so there's two mimikyu running around in the field
+It's simple but honestly in terms of whats possible, this is probably gonna highlight them the most.
+
+![rendered grass](Blender_Project_Files_V3\Images\grass_render.png)

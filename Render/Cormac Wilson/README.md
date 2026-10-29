@@ -36,7 +36,10 @@ My Blender model will be a re-creation of this water bottle.
   - Created the bottle cap for the lid. I did this by using the edge select tool and selecting the top edge of the lid, I then duplicated it and cloned it into its own mesh object. I then filled it to give it a body and also used the extrude and the scale tool to make it taller in height and to make it slightly smaller so that it fits better within the lid.
   - Finished bottle cap for the lid. I edited the cylinder I made for it some more bu using the scale tool to get the correct size before then using the inset faces tool to make a smaller face for the gap where the lid walls go, I then usd the inset faces tool again to make the plug that goes into the bottle, next. After then, I them combined the faces for the plug in the middle, and the face of the actual cap together, this then created a flat surface for the top. Finally, I added some nice bevels to the plugs and also the angles on the outside along the top of the water bottle cap.
   - Added screenshots for all of the work that I have completed today.
-
+- 29/10/2026 ->
+  - Have started work on my room where I plan to have my background for my object. Created a new mesh for my room, will be doing it in a cube within it.
+  - Have done further work on the room. I have deleted one of the faces so that I am able to see within it, I am going to continue working on and will be adding a table and a brick wall for the background wall of the room where the cameras will be facing on to. I am going to make the table wood as well.
+  - Created the room mesh by going into object mode and making a new cube object, I then scaled it using the scale tool to make it bigger, locked along the Y and X axis as well. After this, I moved it so it was central and along the bottom of the floor using the scanp tool.
 ## References
 
 - IceFlow Fast Flow Bottle | 0.71L | Stanley 1913 GB (no date) [Stanley]. Available at: https://share.google/ZjCh81oiLelQbijs3 (Accessed: 22 October 2026).

@@ -38,7 +38,8 @@ My Blender model will be a re-creation of this water bottle.
   - Added screenshots for all of the work that I have completed today.
 - 29/10/2026 ->
   - Have started work on my room where I plan to have my background for my object. Created a new mesh for my room, will be doing it in a cube within it.
-
+  - Have done further work on the room. I have deleted one of the faces so that I am able to see within it, I am going to continue working on and will be adding a table and a brick wall for the background wall of the room where the cameras will be facing on to. I am going to make the table wood as well.
+  - Created the room mesh by going into object mode and making a new cube object, I then scaled it using the scale tool to make it bigger, locked along the Y and X axis as well. After this, I moved it so it was central and along the bottom of the floor using the scanp tool.
 ## References
 
 - IceFlow Fast Flow Bottle | 0.71L | Stanley 1913 GB (no date) [Stanley]. Available at: https://share.google/ZjCh81oiLelQbijs3 (Accessed: 22 October 2026).

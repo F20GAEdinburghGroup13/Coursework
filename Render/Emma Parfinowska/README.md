@@ -53,6 +53,10 @@ Will be taking inspiration from this card creating a scenice backdrop that will 
 
 Also started to add the bones to mew so i can make its floating animation. Its a lot harder to get it to sit right but have added progress.
 
+# 29/10/2026
+- Painted the eyes and jsy about finished rigging Mew. will start with more detail for the background and start animating
+
+
 # References
 
 - Bulbapedia (2026). Mew (Pokémon) - Bulbapedia, the community-driven Pokémon encyclopedia. [online] Bulbapedia. Available at: https://bulbapedia.bulbagarden.net/wiki/Mew_(Pok%C3%A9mon) [Accessed 13 Oct. 2026].

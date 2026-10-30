@@ -40,6 +40,14 @@ My Blender model will be a re-creation of this water bottle.
   - Have started work on my room where I plan to have my background for my object. Created a new mesh for my room, will be doing it in a cube within it.
   - Have done further work on the room. I have deleted one of the faces so that I am able to see within it, I am going to continue working on and will be adding a table and a brick wall for the background wall of the room where the cameras will be facing on to. I am going to make the table wood as well.
   - Created the room mesh by going into object mode and making a new cube object, I then scaled it using the scale tool to make it bigger, locked along the Y and X axis as well. After this, I moved it so it was central and along the bottom of the floor using the scanp tool.
+- 30/10/2026 ->
+  - Have created white plasterboard material for room walls. Did this by following a guide online (referenced). It utilises several different properties to make it look like plasterboard, gives it that bumpy look.
+  - Have created a table for my water bottle object to sit in. Did this by following a guide that I found online (referenced), I changed it a bit from the guide to make it look slightly different, primarily the mapping and the coat/sheen properties.
+  - Added new screenshots of scene.
+  - Added bevels to the walls of the room from the insisde to make it look more natural. Simply went into edit mode and edge select mode, then choose the inner edges and moved them a bit using the bevel tool with 10 segments selected.
+  - Added lights to the scene to light it up when being rendered and used. May also add a window as well. I am planning on creating more objects to for the background.
 ## References
 
 - IceFlow Fast Flow Bottle | 0.71L | Stanley 1913 GB (no date) [Stanley]. Available at: https://share.google/ZjCh81oiLelQbijs3 (Accessed: 22 October 2026).
+- Creating the white plasterboard material
+- Creating the table and its wooden material

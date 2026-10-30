@@ -159,6 +159,5 @@ I also got the bones done, and then angled them, you can see it in the final ren
 
 After all of that i decided to try and make a small video of the fireflies for my own enjoyment and figured to commit it too
 
-<video width="1200" height="1000" controls>
-  <source src="Firefly_movement.mp4" type="video/mp4">
-</video>
+
+![firefly video](Blender_Project_Files_V3/Images/Firefly_movement.mp4)

@@ -14,17 +14,17 @@ I then extruded faces down from it's neck, scaled those up then manually moved i
 There were small holes around it's neck which i moved things around to patch the first time. 
 Once all those were done i worked on tidying the shape up a little and moved onto it's shadow/actual form and i didn't mirror it so i had to manually extrude all the edges myself and scale them down for points like what i done on it's cloth at the bottom.
 
-![second head](Blender_Project_Files_v1/Images/head.png)
+![first head](Blender_Project_Files_v1/Images/head.png)
 
 ![second head](Blender_Project_Files_v1/Images/redone_head.png)
 
 ![third head](Blender_Project_Files_v1/Images/head_after_redoing.png)
 
-![body and head](Blender_Project_Files_v1/Images/head_and_body_with_reef.png)
+![body and head](Blender_Project_Files_v1/Images/head_and_Body_with_ref.png)
 
 ![first body](Blender_Project_Files_v1/Images/body_after_shaping.png)
 
-![second body](Blender_Project_Files_v1/Images/body_after_resizing.png)
+![second body](Blender_Project_Files_v1/Images/Body_after_resizing.png)
 
 ![third body](Blender_Project_Files_v1/Images/body_after_extruding.png)
 
@@ -36,7 +36,7 @@ scaling it up so it looked proportionate and then smoothed everything off and be
 
 ![fourth body](Blender_Project_Files_v1/Images/body_after_more_shaping.png)
 
-![fifth body](Blender_Project_Files_v1/Images/body_after_resizing.png)
+![fifth body](Blender_Project_Files_v1/Images/Body_after_resizing.png)
 
 ![sixth body](Blender_Project_Files_v1/Images/1st_atp_at_triangles.png)
 
@@ -48,7 +48,7 @@ scaling it up so it looked proportionate and then smoothed everything off and be
 
 ![second tail](Blender_Project_Files_v1/Images/made_tail_larger.png)
 
-![third tail](Blender_Project_Files_v1/Images/Added_tail_holding.png)
+![third tail](Blender_Project_Files_v1/Images/Added_tail_hold.png)
 
 ![first ears](Blender_Project_Files_v1/Images/ears.png)
 
@@ -67,7 +67,7 @@ So i wasn't happy with that. I am now reworking it all from my first commit with
 So after today I have done a lot! I completely redone the head properly, i messed with subdivisions again properly and cave in to giving it more so that it looks nice after being smoothed
 Overall i am really happy with this and theres some jank that i wish i could get rid of but ultimately the tail looks good, i was enjoying myself and thought i created something that looks good besides the horns- but those will be worked on after the mirror is gone on the body
 
-![redone horns 1](Blender_Project_Filesv2/Images/horn_test.png)
+![redone horns 1](Blender_Project_Files_v2/Images/horn_test.png)
 
 ![redone horns 2](Blender_Project_Files_v2/Images/new_horns.png)
 
@@ -154,9 +154,11 @@ I also got the bones done, and then angled them, you can see it in the final ren
 
 ![final composting](Blender_Project_Files_V3/Images/composting.png)
 
-![test render](Blender_Project_Files_V3/Images/Teset_render.png)
+![test render](Blender_Project_Files_V3/Images/Teset_Render.png)
 
 
 After all of that i decided to try and make a small video of the fireflies for my own enjoyment and figured to commit it too
 
-![firefly animation](Blender_Project_Files_V3/Images/firefly_movement.mp4)
+<video width="1200" height="1000" controls>
+  <source src="Firefly_movement.mp4" type="video/mp4">
+</video>

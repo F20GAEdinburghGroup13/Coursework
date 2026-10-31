@@ -47,6 +47,8 @@ My Blender model will be a re-creation of this water bottle.
   - Added new screenshots of scene.
   - Added bevels to the walls of the room from the inside to make it look more natural. Simply went into edit mode and edge select mode, then choose the inner edges and moved them a bit using the bevel tool with 10 segments selected.
   - Added lights to the scene to light it up when being rendered and used. May also add a window as well. I am planning on creating more objects to for the background.
+- 31/10/2026 -> Added Subdivion Surface modifier to my bottle's lid, cap and body. This is to make the segments and the general bottle look rounder compared to the sharp edges it currently has.
+- Added new side cameras to get closer look at my material for the lid and the cap when rendered, did this by simply cloning two of my current cameras and moving and re-arranging their positions.
 ## References
 
 - IceFlow Fast Flow Bottle | 0.71L | Stanley 1913 GB (no date) [Stanley]. Available at: https://share.google/ZjCh81oiLelQbijs3 (Accessed: 22 October 2026).

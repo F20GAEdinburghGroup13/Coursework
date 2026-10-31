@@ -1,10 +1,10 @@
 # F20GA - Cormac Wilson
 
-For my object I have decided to re-create my 710ml Stanley IceFlow™ Fast Flow Bottle in red and black. Please see an image below.
+For my object I have decided to create a water bottle, heavily inspired by my 710ml Stanley IceFlow™ Fast Flow Bottle in red and black. Please see an image below.
 ![IceFlow Fast Flow Bottle | 0.71L | Stanley 1913 GB](Images\waterbottlestanley.png "IceFlow Fast Flow Bottle | 0.71L | Stanley 1913 GB")
 Figure. 1: IceFlow Fast Flow Bottle | 0.71L | Stanley 1913 GB
 
-My Blender model will be a re-creation of this water bottle.
+My Blender model will be a general water bottle heavily inspired by this Stanley water bottle.
 
 ## Diary
 
@@ -29,7 +29,7 @@ My Blender model will be a re-creation of this water bottle.
   - Have fixed geometry issues I was experiencing with the handle connectors, I was getting weird issues with lighting, there was duplicate vertices, I have removed it and fixed this issue.
 - 24/10/2026 ->
   - Have recreated the handle. Did this by deleting the initial handle and then recreating it. I first made the cylinder that the handle is based off of before then extruding its top faces up to make the initial handle spine, before then using the scale tool on its top faces to flatten it out, into a straight line. After this I then continued up using the extrude tool to make the spine slightly thicker (for the black plastic bit) I then angled it and connected it together at the top. I enabled clipping for the mirror tool for this.
-  - Added curves to the edges of the new handle spine and the edges of the side screws and the handle spine cylinder base. I did this by using the bevel tool.
+  - Added curves to the edges of the new handle spine and the edges of the side screws and the handle spine cylinder base. I did this by using the bevel tool with 10 segments chosen for the bevel level.
   - Added materials to the handle spine, I did this by simply selecting the correct faces on the mesh, and selecting the correct material for them using the materials pane in the properties workspace on my Blender.
   - Added further curved edges to the handle spine, used the bevel tool to make the edges around the specific angle change section more curved compared to the straight lines I have previously.
 - 27/10/2026 ->
@@ -42,15 +42,20 @@ My Blender model will be a re-creation of this water bottle.
   - Have done further work on the room. I have deleted one of the faces so that I am able to see within it, I am going to continue working on and will be adding a table and a brick wall for the background wall of the room where the cameras will be facing on to. I am going to make the table wood as well.
   - Created the room mesh by going into object mode and making a new cube object, I then scaled it using the scale tool to make it bigger, locked along the Y and X axis as well. After this, I moved it so it was central and along the bottom of the floor using the scale tool.
 - 30/10/2026 ->
-  - Have created white plasterboard material for room walls. Did this by following a guide online (Ryan King Art, 2025). It utilises several different properties to make it look like plasterboard, gives it that bumpy look.
+  - Have created white plasterboard material for room walls. Did this by following a guide online (Ryan King Art, 2025). It utilises several different properties to make it look like plasterboard, gives it that bumpy look. Primarily a colour ramp for the white and off white colour connected to a mix node for factor, and two noise textures for the roughness and the bumpiness of the surface. There is also a mapping node and a texture coordinate node to make sure everything is scaled and displayed correctly.
   - Have created a table for my water bottle object to sit in. Did this by following a guide that I found online (Deepak Guides, 2021), I changed it a bit from the guide to make it look slightly different, primarily the mapping, coat/sheen properties and also the drawer bit, I didn't add this.
   - Added new screenshots of scene.
   - Added bevels to the walls of the room from the inside to make it look more natural. Simply went into edit mode and edge select mode, then choose the inner edges and moved them a bit using the bevel tool with 10 segments selected.
   - Added lights to the scene to light it up when being rendered and used. May also add a window as well. I am planning on creating more objects to for the background.
 - 31/10/2026 -> Added Subdivion Surface modifier to my bottle's lid, cap and body. This is to make the segments and the general bottle look rounder compared to the sharp edges it currently has.
 - Added new side cameras to get closer look at my material for the lid and the cap when rendered, did this by simply cloning two of my current cameras and moving and re-arranging their positions.
+- Created a new prop for the background, followed this video guide (Pete Designs, 2024) to model this book for use in the background of my scene, I used a new cube object, scaled it accordingly, added loop cuts for the correct look alongside a solidify and a subdivion scatter as well.
+- Textured and modeleled new book prop for background, followed the second part of this video guide (Pete Designs, 2024) to texture and add materials to the book itself, didn't follow the guide completely and attempted to create my own book cover esque material. For the material I used a noise texture to give it some randomness alongside also using a bump node for adding an uneven surface, and two different colour ramps, one for the main colour of the book, i.e. red, green, blue, etc. and the other being dark and light brown, to try to imitate book usage and aging somewhat. 
+- Cloned books and moved them on top of each other, then assigned each book a different cover colour and positioned them correctly. These will serve as background props for my main object which is my water bottle. I also used a texture coordinate node to make sure it was also displayed correctly, and a mid node to mix the main book cover colours and the two brown colours together.
 ## References
 
 - IceFlow Fast Flow Bottle | 0.71L | Stanley 1913 GB (no date) [Stanley]. Available at: https://share.google/ZjCh81oiLelQbijs3 (Accessed: 22 October 2026).
 - Procedural White Plaster Material (Blender Tutorial) 14 April 2025 [Ryan King Art]. Available at: https://youtu.be/ivDXf8suYOU?si=Mm4fhG78JE9zOxnD (Accessed: 30 October 2026).
 - Modeling Table Under 2Min || Blender Beginners Tutorial 19 September 2021 [Deepak Graphics]. Available at: https://youtu.be/8b7G0AWcV1k?si=iiS-7uG-K_f1ZIc4 (Accessed: 30 October 2026).
+- How to Model a Book in Blender | Step by Step Tutorial (Part 1) 12 December 2024 [Pete Designs]. Available at: https://youtu.be/0YF0reReehI?si=3km3TdIJP5PXHX-d (Accessed: 31 October 2026).
+- How to Texture a Book in Blender | Step - by - Step Tutorial (Part 2) 24 December 2024 [Pete Designs]. Available at: https://youtu.be/FH2WlhTdImA?si=7NO6FrYT-BEY2pEF (Accessed: 31 October 2026).
